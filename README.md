@@ -1,6 +1,6 @@
 # GFN-IJCV
 
-**"Gated Fusion Network for Degraded Image Super Resolution"** by [Xinyi Zhang*](http://xinyizhang.tech), [Hang Dong*](https://sites.google.com/view/hdong/首页), [Zhe Hu](http://eng.ucmerced.edu/people/zhu), [Wei-Sheng Lai](http://graduatestudents.ucmerced.edu/wlai24/), Fei Wang, [Ming-Hsuan Yang](http://faculty.ucmerced.edu/mhyang/)**(Accpeptd by IJCV, first two authors contributed equally)**.
+**"Gated Fusion Network for Degraded Image Super Resolution"** by [Xinyi Zhang*](http://xinyizhang.tech), [Hang Dong*](https://sites.google.com/view/hdong/首页), [Zhe Hu](http://eng.ucmerced.edu/people/zhu), [Wei-Sheng Lai](http://graduatestudents.ucmerced.edu/wlai24/), Fei Wang, [Ming-Hsuan Yang](http://faculty.ucmerced.edu/mhyang/)** (Accpeptd by IJCV, first two authors contributed equally)**.
 
 [[arXiv](https://arxiv.org/abs/2003.00893)]
 
