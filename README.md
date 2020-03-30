@@ -40,12 +40,12 @@ If you use these models in your research, please cite:
 		author = {Xinyi, Zhang and Hang, Dong and Zhe, Hu and Wei-Sheng, Lai and Fei, Wang and Ming-Hsuan, Yang},
 		title = {Gated Fusion Network for Degraded Image Super Resolution},
 		journal={International Journal of Computer Vision},
-		year = {2020}
-    pages={1 - 23}
+		year = {2020},
+    		pages={1 - 23}
 	}
 
 	@inproceedings{GFN_BMVC,
-    title = {Gated Fusion Network for Joint Image Deblurring and Super-Resolution},
+    		title = {Gated Fusion Network for Joint Image Deblurring and Super-Resolution},
 		author = {Xinyi, Zhang and Hang, Dong and Zhe, Hu and Wei-Sheng, Lai and Fei, Wang and Ming-Hsuan, Yang},
 		booktitle = {BMVC},
 		year = {2018}
